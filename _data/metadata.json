@@ -1,0 +1,21 @@
+{
+  "title": "Matheus Oliveira",
+  "url": "https://matheusoliveira.com/",
+  "language": "en",
+  "description": "I am writing about my experiences as a software developer.",
+  "feed": {
+    "subtitle": "I am writing about my experiences as a software developer.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://matheusoliveira.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://matheusoliveira.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Matheus Oliveira",
+    "email": "hello@matheusoliveira.com",
+    "url": "https://matheusoliveira.com/about-me/"
+  }
+}
